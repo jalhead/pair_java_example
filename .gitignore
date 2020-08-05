@@ -1,0 +1,14 @@
+.project
+.classpath
+target
+.settings
+bin
+.DS_Store
+.gradle
+build
+.checkstyle
+
+#IntelliJ
+.idea/
+*.iml
+
