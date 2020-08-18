@@ -10,6 +10,6 @@ import org.junit.Test;
 public final class RomanNumeralConverterTest {
   @Test
   public void convert_i_returns1() {
-    assertEquals(RomanNumeralConverter.convert("i"), 1);
+    assertEquals(1, RomanNumeralConverter.convert("i"));
   }
 }
